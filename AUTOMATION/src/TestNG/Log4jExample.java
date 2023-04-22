@@ -25,6 +25,7 @@ import org.testng.annotations.Test;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
+
 public class Log4jExample {
   private static Logger logger = Logger.getLogger(Log4jExample.class);
 
