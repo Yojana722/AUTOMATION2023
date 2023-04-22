@@ -1,0 +1,56 @@
+ x
+ 2023-04-02 13:34:53 DEBUG Log4jExample:39 – Starting test
+2023-04-02 13:34:56 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 13:34:56 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 13:34:56 INFO  Log4jExample:45 – Title is correct
+2023-04-02 13:34:57 DEBUG Log4jExample:50 – Test complete
+2023-04-02 13:35:34 DEBUG Log4jExample:39 – Starting test
+2023-04-02 13:35:41 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 13:35:41 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 13:35:41 INFO  Log4jExample:45 – Title is correct
+2023-04-02 13:35:42 DEBUG Log4jExample:50 – Test complete
+2023-04-02 14:00:26 DEBUG Log4jExample:39 – Starting test
+2023-04-02 14:00:29 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 14:00:29 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 14:00:29 INFO  Log4jExample:45 – Title is correct
+2023-04-02 14:00:30 DEBUG Log4jExample:50 – Test complete
+2023-04-02 14:00:56 DEBUG Log4jExample:39 – Starting test
+2023-04-02 14:01:05 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 14:01:05 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 14:01:05 INFO  Log4jExample:45 – Title is correct
+2023-04-02 14:01:05 DEBUG Log4jExample:50 – Test complete
+2023-04-02 14:01:24 DEBUG Log4jExample:39 – Starting test
+2023-04-02 14:01:30 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 14:01:30 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 14:01:30 INFO  Log4jExample:45 – Title is correct
+2023-04-02 14:01:30 DEBUG Log4jExample:50 – Test complete
+2023-04-02 14:05:57 DEBUG Log4jExample:39 – Starting test
+2023-04-02 14:06:01 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 14:06:01 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 14:06:01 INFO  Log4jExample:45 – Title is correct
+2023-04-02 14:06:02 DEBUG Log4jExample:50 – Test complete
+2023-04-02 14:10:10 DEBUG Log4jExample:39 – Starting test
+2023-04-02 14:10:16 INFO  Log4jExample:41 – Opened Google website
+2023-04-02 14:10:16 DEBUG Log4jExample:43 – Page title: Google
+2023-04-02 14:10:16 INFO  Log4jExample:45 – Title is correct
+2023-04-02 14:10:17 DEBUG Log4jExample:50 – Test complete
+2023-04-02 14:11:30 DEBUG Log4jExample:41 – Starting test
+2023-04-02 14:11:37 INFO  Log4jExample:43 – Opened Google website
+2023-04-02 14:11:37 DEBUG Log4jExample:45 – Page title: Google
+2023-04-02 14:11:37 INFO  Log4jExample:47 – Title is correct
+2023-04-02 14:11:37 DEBUG Log4jExample:52 – Test complete
+2023-04-15 12:53:31 DEBUG Log4jExample:41 – Starting test
+2023-04-15 12:53:52 INFO  Log4jExample:43 – Opened Google website
+2023-04-15 12:53:53 DEBUG Log4jExample:45 – Page title: Google
+2023-04-15 12:53:53 INFO  Log4jExample:47 – Title is correct
+2023-04-15 12:53:54 DEBUG Log4jExample:52 – Test complete
+2023-04-15 12:54:29 DEBUG Log4jExample:41 – Starting test
+2023-04-15 12:54:50 INFO  Log4jExample:43 – Opened Google website
+2023-04-15 12:54:50 DEBUG Log4jExample:45 – Page title: Google
+2023-04-15 12:54:50 INFO  Log4jExample:47 – Title is correct
+2023-04-15 12:54:51 DEBUG Log4jExample:52 – Test complete
+2023-04-15 15:46:21 DEBUG Log4jExample:41 – Starting test
+2023-04-15 15:46:54 INFO  Log4jExample:43 – Opened Google website
+2023-04-15 15:46:54 DEBUG Log4jExample:45 – Page title: Google
+2023-04-15 15:46:54 INFO  Log4jExample:47 – Title is correct
+2023-04-15 15:46:56 DEBUG Log4jExample:52 – Test complete
